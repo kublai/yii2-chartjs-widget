@@ -1,9 +1,10 @@
 {
-    "name": "2amigos/yii2-chartjs-widget",
-    "description": "ChartJs widget for Yii2.",
+    "name": "kublai/yii2-chartjs-widget",
+    "description": "ChartJs widget for Yii2 with labels",
     "type": "yii2-extension",
     "keywords": [
         "2amigos",
+        "kublai"
         "yii",
         "yii2",
         "yii 2",
